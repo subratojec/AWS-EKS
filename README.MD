@@ -51,5 +51,5 @@ Through this project, I’ve successfully implemented and learned the following 
 
 ---
 
-![2048 Game Running](screenshots/2048(1).png)
+![2048(1)](https://github.com/user-attachments/assets/cad7f525-8c83-4496-b0a6-b53019f80c7a)
 
