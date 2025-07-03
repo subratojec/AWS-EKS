@@ -51,5 +51,5 @@ Through this project, I’ve successfully implemented and learned the following 
 
 ---
 
-## 📁 Project Structure
+![2048 Game Running](screenshots/2048(1).png)
 
